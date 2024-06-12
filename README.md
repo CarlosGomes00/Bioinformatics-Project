@@ -6,6 +6,7 @@ Here you can find work on **"Applying generative language models to design new a
 The content of this repository was developed by: 
 - Carlos Gomes, PG51681
 
+The presentation on the final phase of the project can be found here: https://projeto-bioinf-pg51681.my.canva.site/  
 
 Work supervised by: 
 - Pedro Moreira; 
